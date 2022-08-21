@@ -1,5 +1,6 @@
 ## AntiMenheraArch项目（反MenheraArch项目 原反MenheraOS项目）于2022年8月19日正式重新开放并开源
 ## 所有内容与洛凛琉无关，但您可以Fork本仓库并参与贡献，不会为此仓库的内容负责
+## 在这向AngelaEnder&KenYue致歉
 ## 怎么参与贡献？
 - 需要一个Github账号（如果没有，请先注册一个Github账号，填写信息）
 - 将本仓库Fork到你账号
